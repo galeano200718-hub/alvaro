@@ -6,9 +6,6 @@ https://no.gendigi.net/origin-proxy/chunklist.m3u8
 #EXTINF:-1 group-title="NACIONALES" tvg-logo="https://play-lh.googleusercontent.com/7N6mkTUXpd7F_go8SeeLa_xKM_D1JGyTWFBVPaKNQXaX_trjHI4OTKRDpL9U15v0lg8=w240-h480-rw",BRUNO MASI TV
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/chunklist_w959302118.m3u8
 
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="",
-
-
 #EXTINF:-2 group-title="NACIONALES" tvg-logo="https://www.telefuturo.com.py/favicon-169x169.png",Telefuturo
 https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8
 
@@ -66,9 +63,6 @@ https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/32_.m3u8?token=wiWF
 #EXTINF:-21 group-title="KIDS" tvg-logo="
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3o6MuMfHDip0q9DOEtsg_BoDYYlJYsFJafg&s",CARTOON NETWORK
 https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/31_.m3u8?token=2v0t-Kcw8I9Wcs1G3GWTNg&expires=1781153504
-
-#EXTINF:-22 group-title="KIDS" tvg-logo="",
-
 
 #EXTINF:-26 group-title="ENTRETENIMIENTO" tvg-logo="
 https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg",TNT
