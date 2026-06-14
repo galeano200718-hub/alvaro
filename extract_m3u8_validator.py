@@ -4,7 +4,7 @@
 """
 Script para extraer, validar y procesar URLs m3u8 desde archivos .m3u
 Autor: Automatización de canales
-Uso: python extract_m3u8_validator.py
+Uso: python extract_m3u8_validator.py [archivo.m3u]
 """
 
 import re
@@ -15,6 +15,7 @@ from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import List, Dict, Tuple
 import sys
+import os
 
 class M3U8Extractor:
     """Extrae y valida URLs m3u8 de archivos .m3u"""
@@ -405,32 +406,74 @@ class M3U8Extractor:
         print("="*80 + "\n")
 
 
+def find_m3u_file() -> str:
+    """Busca automáticamente archivos .m3u en el directorio actual"""
+    m3u_files = list(Path('.').glob('*.m3u'))
+    
+    if m3u_files:
+        print(f"📁 Archivos .m3u encontrados:")
+        for i, file in enumerate(m3u_files, 1):
+            print(f"   {i}. {file.name}")
+        return str(m3u_files[0])
+    
+    return None
+
+
 def main():
     """Función principal"""
     
-    # Configuración
-    input_file = "prueba01.m3u"  # Cambiar si es necesario
-    output_dir = "m3u8_output"
+    # Configuración inicial
+    input_file = None
     
-    # Validar que el archivo existe
-    if not Path(input_file).exists():
-        print(f"❌ Error: No se encontró el archivo {input_file}")
+    # Si se pasa como argumento
+    if len(sys.argv) > 1:
+        input_file = sys.argv[1]
+    
+    # Si no, buscar automáticamente
+    if not input_file:
+        input_file = find_m3u_file()
+    
+    # Validar que tenemos un archivo
+    if not input_file or not Path(input_file).exists():
+        print("❌ Error: No se encontró archivo .m3u")
+        print("\n💡 Uso:")
+        print("   python extract_m3u8_validator.py [archivo.m3u]")
+        print("\nEjemplos:")
+        print("   python extract_m3u8_validator.py prueba01.m3u")
+        print("   python extract_m3u8_validator.py  # Busca automáticamente .m3u")
         sys.exit(1)
+    
+    print(f"✅ Usando archivo: {input_file}\n")
+    
+    # Configuración
+    output_dir = "m3u8_output"
     
     # Crear extractor
     extractor = M3U8Extractor(input_file, output_dir)
     
-    # Extraer canales
-    extractor.extract_channels()
-    
-    # Validar URLs
-    extractor.validate_all(max_workers=5)
-    
-    # Guardar resultados
-    extractor.save_results()
-    
-    # Mostrar resumen
-    extractor.print_summary()
+    try:
+        # Extraer canales
+        extractor.extract_channels()
+        
+        # Validar URLs
+        extractor.validate_all(max_workers=5)
+        
+        # Guardar resultados
+        extractor.save_results()
+        
+        # Mostrar resumen
+        extractor.print_summary()
+        
+        print("✨ ¡Proceso completado exitosamente!")
+        
+    except KeyboardInterrupt:
+        print("\n\n⚠️  Proceso interrumpido por el usuario")
+        sys.exit(0)
+    except Exception as e:
+        print(f"\n❌ Error durante la ejecución: {str(e)}")
+        import traceback
+        traceback.print_exc()
+        sys.exit(1)
 
 
 if __name__ == "__main__":
