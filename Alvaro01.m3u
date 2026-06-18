@@ -19,72 +19,116 @@ https://live.enhdtv.com:8081/8160/index.m3u8
 #EXTINF:-1 tvg-id="TigoSports.py@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/1280px-Tigo_Sports_2025.png" group-title="NACIONALES",Tigo Sports
 https://live.enhdtv.com:8081/8160/index.m3u8
 
+#EXTM3U
+
 # ==========================================
 # CATEGORY: SPORTS
 # ==========================================
 
 #EXTINF:-1 tvg-id="espnpremium" tvg-name="ESPN Premium" tvg-logo="" group-title="SPORTS",ESPN Premium
-https://deportes.ksdjugfsddeports.com:9092/MjAuMTY5Ljc3LjIyNg==/5_.m3u8?token=GFi5GqR6UFGqV7geccIlfg&expires=1781781418
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/espnpremium.m3u8
 
 #EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="" group-title="SPORTS",ESPN
-https://deportes.ksdjugfsddeports.com:9092/MjAuMTY5Ljc3LjIyNg==/13_.m3u8?token=q-jKkH3k3112SX-GwtSFKQ&expires=1781781429
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/espn.m3u8
 
 #EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="" group-title="SPORTS",ESPN 2
-https://deportes.ksdjugfsddeports.com:9092/MjAuMTY5Ljc3LjIyNg==/14_.m3u8?token=0GzdVr6Sl6XMgYS7Ar8RMQ&expires=1781781441
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/espn2.m3u8
 
 #EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="" group-title="SPORTS",ESPN 3
-https://deportes.ksdjugfsddeports.com:9092/MjAuMTY5Ljc3LjIyNg==/15_.m3u8?token=RHhlNulxsVLFzIi31NReKw&expires=1781781450
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/espn3.m3u8
 
 #EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="" group-title="SPORTS",ESPN 4
-https://deportes.ksdjugfsddeports.com:9092/MjAuMTY5Ljc3LjIyNg==/23_.m3u8?token=p1L46oOovveplI1Yi48y9A&expires=1781781462
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/espn4.m3u8
 
 #EXTINF:-1 tvg-id="espn5" tvg-name="ESPN 5" tvg-logo="" group-title="SPORTS",ESPN 5
-https://deportes.ksdjugfsddeports.com:9092/MjAuMTY5Ljc3LjIyNg==/24_.m3u8?token=bnxcGnOJys0uFXIIYlLUbw&expires=1781781472
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/espn5.m3u8
 
 #EXTINF:-1 tvg-id="espn6" tvg-name="ESPN 6" tvg-logo="" group-title="SPORTS",ESPN 6
-https://deportes.ksdjugfsddeports.com:9092/MjAuMTY5Ljc3LjIyNg==/25_.m3u8?token=HwDWLIAcRVNcOKpCTeXPlQ&expires=1781781483
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/espn6.m3u8
 
 #EXTINF:-1 tvg-id="espn7" tvg-name="ESPN 7" tvg-logo="" group-title="SPORTS",ESPN 7
-https://deportes.ksdjugfsddeports.com:9092/MjAuMTY5Ljc3LjIyNg==/26_.m3u8?token=SuvL-kRi82mgd35OhOX2OA&expires=1781781493
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/espn7.m3u8
 
 #EXTINF:-1 tvg-id="foxsports" tvg-name="Fox Sports" tvg-logo="" group-title="SPORTS",Fox Sports
-https://deportes.ksdjugfsddeports.com:9092/MjAuMTY5Ljc3LjIyNg==/8_.m3u8?token=kPtmNmXULD9HXo9gDXniGg&expires=1781781503
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/foxsports.m3u8
 
 #EXTINF:-1 tvg-id="foxsports2" tvg-name="Fox Sports 2" tvg-logo="" group-title="SPORTS",Fox Sports 2
-https://deportes.ksdjugfsddeports.com:9092/MjAuMTY5Ljc3LjIyNg==/9_.m3u8?token=GOYSyPACQUAT53ZDwcQYGA&expires=1781781513
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/foxsports2.m3u8
 
 #EXTINF:-1 tvg-id="foxsports3" tvg-name="Fox Sports 3" tvg-logo="" group-title="SPORTS",Fox Sports 3
-https://deportes.ksdjugfsddeports.com:9092/MjAuMTY5Ljc3LjIyNg==/10_.m3u8?token=6Rk2_1x-zL9PxqPYR0dbng&expires=1781781523
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/foxsports3.m3u8
 
 #EXTINF:-1 tvg-id="tudn" tvg-name="TUDN" tvg-logo="" group-title="SPORTS",TUDN
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
 https://temporal.com/live/tudn.m3u8
 
 #EXTINF:-1 tvg-id="tycsports" tvg-name="TyC Sports" tvg-logo="" group-title="SPORTS",TyC Sports
-https://deportes.ksdjugfsddeports.com:9092/MjAuMTY5Ljc3LjIyNg==/6_.m3u8?token=lJ4-Y14hExsL9Tx_5Tv2Rw&expires=1781781553
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/tycsports.m3u8
 
 #EXTINF:-1 tvg-id="directvsports" tvg-name="DirecTV Sports" tvg-logo="" group-title="SPORTS",DirecTV Sports
-https://deportes.ksdjugfsddeports.com:9092/MjAuMTY5Ljc3LjIyNg==/3_.m3u8?token=aHpG5v8yp88A2pCL3SBHCQ&expires=1781781562
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/directvsports.m3u8
 
 #EXTINF:-1 tvg-id="directvsports2" tvg-name="DirecTV Sports 2" tvg-logo="" group-title="SPORTS",DirecTV Sports 2
-https://deportes.ksdjugfsddeports.com:9092/MjAuMTY5Ljc3LjIyNg==/7_.m3u8?token=O9E9ZQbwTAd7SoPrplLIhQ&expires=1781781572
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/directvsports2.m3u8
 
 #EXTINF:-1 tvg-id="liga1" tvg-name="Liga 1" tvg-logo="" group-title="SPORTS",Liga 1
-https://deportes.ksdjugfsddeports.com:9092/MjAuMTY5Ljc3LjIyNg==/39_.m3u8?token=a9mdwrG82ZcDxqWu3z4FvA&expires=1781781582
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/liga1.m3u8
 
 #EXTINF:-1 tvg-id="daznlaliga" tvg-name="DAZN LaLiga" tvg-logo="" group-title="SPORTS",DAZN LaLiga
-https://deportes.ksdjugfsddeports.com:9092/MjAuMTY5Ljc3LjIyNg==/28_.m3u8?token=vH_xv_LiGD82IrsgDO05Eg&expires=1781781592
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/daznlaliga.m3u8
 
 #EXTINF:-1 tvg-id="movistarligadecampeones" tvg-name="Movistar Liga de Campeones" tvg-logo="" group-title="SPORTS",Movistar Liga de Campeones
-https://deportes.ksdjugfsddeports.com:9092/MjAuMTY5Ljc3LjIyNg==/29_.m3u8?token=w8t2Huc2nKaHmfclUynXrw&expires=1781781603
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/movistarligadecampeones.m3u8
 
 #EXTINF:-1 tvg-id="winsports" tvg-name="Win Sports" tvg-logo="" group-title="SPORTS",Win Sports
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
 https://temporal.com/live/winsports.m3u8
 
 #EXTINF:-1 tvg-id="winsportsplus" tvg-name="Win Sports Plus" tvg-logo="" group-title="SPORTS",Win Sports Plus
-https://deportes.ksdjugfsddeports.com:9092/MjAuMTY5Ljc3LjIyNg==/30_.m3u8?token=Yny5yJ-H3IowBRhTIThhTA&expires=1781781622
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/winsportsplus.m3u8
 
 #EXTINF:-1 tvg-id="beinsportsxtra" tvg-name="beIN Sports XTRA" tvg-logo="" group-title="SPORTS",beIN Sports XTRA
-https://deportes.ksdjugfsddeports.com:9092/MjAuMTY5Ljc3LjIyNg==/31_.m3u8?token=tFTZRadjCpJtzj8UXBQ-Sg&expires=1781781638
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/beinsportsxtra.m3u8
 
 
 # ==========================================
@@ -92,79 +136,129 @@ https://deportes.ksdjugfsddeports.com:9092/MjAuMTY5Ljc3LjIyNg==/31_.m3u8?token=t
 # ==========================================
 
 #EXTINF:-1 tvg-id="space" tvg-name="Space" tvg-logo="" group-title="Entertainment",Space
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/56_.m3u8?token=1ovGUvmX_a88wsmnZ1G-7g&expires=1781792447
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/space.m3u8
 
 #EXTINF:-1 tvg-id="warnerchannel" tvg-name="Warner Channel" tvg-logo="" group-title="Entertainment",Warner Channel
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/58_.m3u8?token=vCuRGqxpbUdP3EkS_Pjc8Q&expires=1781792457
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/warnerchannel.m3u8
 
 #EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="" group-title="Entertainment",TNT
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/52_.m3u8?token=x0B3AW1961yfVuvFL1Izyg&expires=1781792477
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/tnt.m3u8
 
 #EXTINF:-1 tvg-id="starchannel" tvg-name="Star Channel" tvg-logo="" group-title="Entertainment",Star Channel
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/54_.m3u8?token=4kUXqhQF1fZR2H9SdHKRSw&expires=1781792488
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/starchannel.m3u8
 
 #EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="" group-title="Entertainment",Cinemax
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/55_.m3u8?token=ugSd-YhlXuDTt6B8DmFQCA&expires=1781792502
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/cinemax.m3u8
 
 #EXTINF:-1 tvg-id="cinecanal" tvg-name="Cinecanal" tvg-logo="" group-title="Entertainment",Cinecanal
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/59_.m3u8?token=CMM4ctXNCc4BwGpaZqRzXw&expires=1781792513
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/cinecanal.m3u8
 
 #EXTINF:-1 tvg-id="distritocomedia" tvg-name="Distrito Comedia" tvg-logo="" group-title="Entertainment",Distrito Comedia
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/75_.m3u8?token=l65ObMj3lrsYNtjPV9y9nA&expires=1781792524
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/distritocomedia.m3u8
 
 #EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="" group-title="Entertainment",History
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/44_.m3u8?token=H4U9LOcm5H6gJQsN4RHzKA&expires=1781792536
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/history.m3u8
 
 #EXTINF:-1 tvg-id="history2" tvg-name="History 2" tvg-logo="" group-title="Entertainment",History 2
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/45_.m3u8?token=HiHFrqaW0NJ-oSZc_ZpT5Q&expires=1781792548
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/history2.m3u8
 
 #EXTINF:-1 tvg-id="pasiones" tvg-name="Pasiones" tvg-logo="" group-title="Entertainment",Pasiones
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1804678636&e=s&n=9213484547914079&aid=eGDB2EujEeKZwiIACp8kUw&at=1&c=-1&ccp=0&cp=0&d=1&eb=0&ed=6&emi=1k71ckpefpc8&gfb=0&gifr=0&gios=0&i=1&lid=1jv4yjts86qu&lsa=set&mt=1&pbd=1&pbr=1&pgi=16s1sg11bbw5&ph=0&pii=0&pl=720&plc=1&pli=1nzg6kp186b3&pp=hlsjs&ppm=LIVE&prc=1&ps=3&pss=2&pt=Reproductor%20Seguro%20Rojo%20%2B%20P2P&pu=https%3A%2F%2Fregionales.saohgdasregions.fun%2Ftvporinternet2.php%3Fstream%3D10_&pv=8.2.4&pyc=2&s=0&sdk=0&stc=1&stpe=0&t=TV%20PLUS%20GRATIS&tv=3.13.0&vb=1&vi=1&vl=90&wd=1280&cae=0&cct=0&drm=0&ff=80&l=0&lng=es&mk=hls&mu=https%3A%2F%2Fregionales.saohgdasregions.fun%3A9092%2FMjAuMTY5Ljc3LjIyNg%3D%3D%2F10_.m3u8%3Ftoken%3DPNgWpXVxurco2Tyd-SeJeg%26expires%3D1781792559&pd=2&pnl=28&pr=2&q=0&sp=0&strt=80&tb=4&tt=0&vd=0&vs=2&sa=1781749382498
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/pasiones.m3u8
 
 #EXTINF:-1 tvg-id="tlnovelas" tvg-name="Tlnovelas" tvg-logo="" group-title="Entertainment",Tlnovelas
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/12_.m3u8?token=Z62gqN1y6dK6wd4UFCX3lg&expires=1781792585
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/tlnovelas.m3u8
 
 #EXTINF:-1 tvg-id="lasestrellas" tvg-name="Las Estrellas" tvg-logo="" group-title="Entertainment",Las Estrellas
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/13_.m3u8?token=QyyeNp1a5YUQw1wIrtcyYg&expires=1781792607
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/lasestrellas.m3u8
 
 #EXTINF:-1 tvg-id="fx" tvg-name="FX" tvg-logo="" group-title="Entertainment",FX
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/60_.m3u8?token=jhbiSWNSkid7QR_oBmMhLQ&expires=1781792618
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/fx.m3u8
 
 #EXTINF:-1 tvg-id="goldenplus" tvg-name="Golden Plus" tvg-logo="" group-title="Entertainment",Golden Plus
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/68_.m3u8?token=HA5fs1idtvrD7qXcztvgjA&expires=1781792629
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/goldenplus.m3u8
 
 #EXTINF:-1 tvg-id="goldenedge" tvg-name="Golden Edge" tvg-logo="" group-title="Entertainment",Golden Edge
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/69_.m3u8?token=xjAplsaUdaqb0FYTYrIK8w&expires=1781792640
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/goldenedge.m3u8
 
 #EXTINF:-1 tvg-id="tntseries" tvg-name="TNT Series" tvg-logo="" group-title="Entertainment",TNT Series
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/53_.m3u8?token=BiOXjSzrN-zzQAiTsQXQYg&expires=1781792651
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/tntseries.m3u8
 
 #EXTINF:-1 tvg-id="sony" tvg-name="Sony Channel" tvg-logo="" group-title="Entertainment",Sony Channel
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/72_.m3u8?token=8vkK4E6VvLa5NOd8AK3vzw&expires=1781792661
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/sony.m3u8
 
 #EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="" group-title="Entertainment",AXN
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/61_.m3u8?token=kVzfaebI49iisADhOEyjJg&expires=1781792673
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/axn.m3u8
 
 #EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="" group-title="Entertainment",AMC
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/63_.m3u8?token=EVaRu1wLRAp7Gjd88ayTYQ&expires=1781792683
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/amc.m3u8
 
 #EXTINF:-1 tvg-id="natgeo" tvg-name="Nat Geo" tvg-logo="" group-title="Entertainment",Nat Geo
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/47_.m3u8?token=H9haTXpY1NhLtSFzDFBKHg&expires=1781792694
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/natgeo.m3u8
 
 #EXTINF:-1 tvg-id="animalplanet" tvg-name="Animal Planet" tvg-logo="" group-title="Entertainment",Animal Planet
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/46_.m3u8?token=ZThCVS9XvIzqIUH5ND4dLg&expires=1781792707
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/animalplanet.m3u8
 
 #EXTINF:-1 tvg-id="discoverychannel" tvg-name="Discovery Channel" tvg-logo="" group-title="Entertainment",Discovery Channel
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/37_.m3u8?token=F7GYlF1e2zSkwYOa0rPIGw&expires=1781792718
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/discoverychannel.m3u8
 
 #EXTINF:-1 tvg-id="tntnovelas" tvg-name="TNT Novelas" tvg-logo="" group-title="Entertainment",TNT Novelas
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/5_.m3u8?token=ZU1T_wOfQq2b_R4J9TiG-A&expires=1781792729
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/tntnovelas.m3u8
 
 #EXTINF:-1 tvg-id="discoveryaye" tvg-name="Discovery A&E" tvg-logo="" group-title="Entertainment",Discovery A&E
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/43_.m3u8?token=EwHHjt-VVndd7heB8vIdaQ&expires=1781792740
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/discoveryaye.m3u8
 
 #EXTINF:-1 tvg-id="idinvestigation" tvg-name="Investigation Discovery" tvg-logo="" group-title="Entertainment",Investigation Discovery
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/41_.m3u8?token=nvrk15YTqyEJJI_HDUH_Kg&expires=1781792751
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/idinvestigation.m3u8
 
 
 # ==========================================
@@ -172,13 +266,19 @@ https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/41_.m3u8?token=
 # ==========================================
 
 #EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="Cartoon Network" tvg-logo="" group-title="Kids",Cartoon Network
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/31_.m3u8?token=S7mS5RU0FfgdX01SQ32y6Q&expires=1781792761
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/cartoonnetwork.m3u8
 
 #EXTINF:-1 tvg-id="tooncast" tvg-name="Tooncast" tvg-logo="" group-title="Kids",Tooncast
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/32_.m3u8?token=ceXbc_jcCFYDttbh6r1SzQ&expires=1781792771
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/tooncast.m3u8
 
 #EXTINF:-1 tvg-id="disneychannel" tvg-name="Disney Channel" tvg-logo="" group-title="Kids",Disney Channel
-https://regionales.saohgdasregions.fun:9092/MjAuMTY5Ljc3LjIyNg==/28_.m3u8?token=OThp7CHXLXGVzHRYjrH6LA&expires=1781792782
+#EXTVLCOPT:http-referrer=https://embed.ksdjugfsddeports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0
+https://temporal.com/live/disneychannel.m3u8
 
 #EXTINF:-1 tvg-id="ParaguayTV.py@SD" tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="NACIONALES",Paraguay TV (1080p)
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
