@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="The Batman" tvg-logo="https://image.tmdb.org/t/p/w500/m7030kG7R6m9A4p9M18F5T2y5m5.jpg" group-title="Películas - Acción" tvg-year="2022",The Batman (2022)
+https://cinecalidad.fm/wp-content/uploads/video/the-batman-4k.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Estafador de Tinder" tvg-logo="https://lamovie.org/covers/tinder_swindler.jpg" group-title="Películas - Documental" tvg-year="2022",El Estafador de Tinder (2022)
+https://lamovie.org/cdn/tinder_swindler_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01E01" tvg-logo="https://image.tmdb.org/t/p/w500/gg4mZ2XnIGr6vj096Z7fGe0y1Uo.jpg" group-title="Series - Breaking Bad" tvg-year="2008",Breaking Bad - S01E01 - Piloto
+https://server1.gnula/bb/s1e01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01E02" tvg-logo="https://image.tmdb.org/t/p/w500/gg4mZ2XnIGr6vj096Z7fGe0y1Uo.jpg" group-title="Series - Breaking Bad" tvg-year="2008",Breaking Bad - S01E02 - El gato esta en la bolsa
+https://server1.gnula/bb/s1e02.mp4
