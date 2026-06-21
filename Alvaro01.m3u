@@ -24,7 +24,7 @@ https://live.enhdtv.com:8081/8160/index.m3u8
 # ==========================================
 
 #EXTINF:-1 tvg-id="espnpremium" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/3840px-ESPN_Premium_logo.svg.png" group-title="SPORTS",ESPN Premium
-https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjU3/5_.m3u8?token=VPPLv6w3T-TgRdKxC1F3jQ&expires=1782015113
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-958382356&e=s&n=9633067608065344&aid=eGDB2EujEeKZwiIACp8kUw&at=1&c=-1&ccp=0&cp=0&d=1&eb=0&ed=6&emi=1deu1s517vrc&gfb=0&gifr=0&gios=0&i=1&lid=1oc5q8tpxm4w&lsa=set&mt=1&pbd=1&pbr=1&pgi=118w8na5p0ku&ph=0&pii=0&pl=720&plc=1&pli=1gf2kf3iydei&pp=hlsjs&ppm=LIVE&prc=1&ps=3&pss=1&pt=Reproductor%20Seguro%20Rojo%20%2B%20P2P&pu=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Ftvporinternet2.php%3Fstream%3D5_&pv=8.2.4&pyc=1&s=0&sdk=0&stc=1&stpe=0&t=TV%20PLUS%20GRATIS&tv=3.13.0&vb=1&vi=1&vl=90&wd=1280&abm=1&cae=0&cct=0&drm=0&ff=6990&l=0&lng=es&mk=hls&mu=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%3A9092%2FMzguNTIuMTMzLjYz%2F5_.m3u8%3Ftoken%3DEzSScAFzWhSUKbtS3pGCDA%26expires%3D1782084827&pd=2&pnl=28&pr=2&q=0&qcr=auto&sp=0&strt=6990&tb=39.7&tt=0&vd=0&vh=240&vs=2&vw=426&sa=1782052436793
 
 #EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="SPORTS",ESPN
 https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjYz/13_.m3u8?token=PDwZgNmdVfGfET7wKCewiw&expires=1782030802
@@ -33,16 +33,16 @@ https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjYz/13_.m3u8?token=PDwZg
 https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjU3/14_.m3u8?token=OaYv4FTUvYuKSGJU4ovM0g&expires=1782015137
 
 #EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/3840px-ESPN3_logo.svg.png" group-title="SPORTS",ESPN 3
-https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjU3/15_.m3u8?token=_MAqqx2PwEkQ_HiafCOQnw&expires=1782015151
+https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjYz/15_.m3u8?token=h-QAZcnJIX8P_PntgsjI3w&expires=1782084869
 
 #EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="SPORTS",ESPN 4
-https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjYz/23_.m3u8?token=mw7FmBsPBHZnC3Fq4FaC7A&expires=1782041879
+https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjYz/23_.m3u8?token=Ke4OoOMmtOWpqMuN-CcGlQ&expires=1782084881
 
 #EXTINF:-1 tvg-id="espn5" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/ESPN_5_logo.svg" group-title="SPORTS",ESPN 5
 https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjYz/24_.m3u8?token=GAgRczaaaMwSmin1CTKShw&expires=1782041892
 
 #EXTINF:-1 tvg-id="espn6" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/ESPN_6_logo.svg" group-title="SPORTS",ESPN 6
-https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjYz/25_.m3u8?token=Hp-ennVZPd1DcvfmZ-lJew&expires=1782041906
+https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjYz/25_.m3u8?token=gvAtUekjjcLWektha8ABUA&expires=1782084911
 
 #EXTINF:-1 tvg-id="espn7" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="SPORTS",ESPN 7
 https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjYz/26_.m3u8?token=LrDapQxxJNxhgOHpQsgVNw&expires=1782037804
@@ -51,10 +51,10 @@ https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjYz/26_.m3u8?token=LrDap
 https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjYz/8_.m3u8?token=yjyKum3ghRMM5bfQEHcP5g&expires=1782041940
 
 #EXTINF:-1 tvg-id="foxsports2" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png" group-title="SPORTS",Fox Sports 2
-https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjYz/9_.m3u8?token=U6F64JwkIppaA0GjDIjLYg&expires=1782037835
+https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjYz/9_.m3u8?token=lUO4-mGSJ9qa-K3TgbNYHw&expires=1782084955
 
 #EXTINF:-1 tvg-id="foxsports3" tvg-name="Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/3840px-Fox_sports_3_logo.svg.png" group-title="SPORTS",Fox Sports 3
-https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjYz/10_.m3u8?token=S6wLhnPrscCm1Ok3pmikNw&expires=1782041976
+https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjYz/10_.m3u8?token=iO-RQp0qrqvpLSh88ZEUng&expires=1782084966
 
 #EXTINF:-1 tvg-id="tudn" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TUDN_Logo.svg" group-title="SPORTS",TUDN
 https://temporal.com/live/tudn.m3u8
@@ -63,7 +63,7 @@ https://temporal.com/live/tudn.m3u8
 https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjYz/6_.m3u8?token=6tKY4yNJ-J3xQIxxO0JEDQ&expires=1782042004
 
 #EXTINF:-1 tvg-id="directvsports" tvg-name="DirecTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="SPORTS",DirecTV Sports
-https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjYz/3_.m3u8?token=XHgibUirlCbHXyRoZDCFKw&expires=1782042024
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1387077857&e=s&n=4691314888160615&aid=eGDB2EujEeKZwiIACp8kUw&at=1&c=-1&ccp=0&cp=0&d=1&eb=0&ed=6&emi=domr0sxaksbh&gfb=0&gifr=0&gios=0&i=1&lid=10sgdy8y5oj1&lsa=set&mt=1&pbd=1&pbr=1&pgi=1jyi27y19006&ph=0&pii=0&pl=720&plc=1&pli=79d8611nx6yi&pp=hlsjs&ppm=LIVE&prc=1&ps=3&pss=1&pt=Reproductor%20Seguro%20Rojo%20%2B%20P2P&pu=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Ftvporinternet2.php%3Fstream%3D3_&pv=8.2.4&pyc=1&s=0&sdk=0&stc=1&stpe=0&t=TV%20PLUS%20GRATIS&tv=3.13.0&vb=1&vi=1&vl=90&wd=1280&abm=1&cae=0&cct=0&drm=0&ff=2870&l=0&lng=es&mk=hls&mu=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%3A9092%2FMzguNTIuMTMzLjYz%2F3_.m3u8%3Ftoken%3DVwXVRDt9AgBztSedv5LBog%26expires%3D1782085028&pd=2&pnl=28&pr=2&q=0&qcr=auto&sp=0&strt=2870&tb=39.7&tt=0&vd=0&vh=360&vs=2&vw=640&sa=1782052633413
 
 #EXTINF:-1 tvg-id="directvsports2" tvg-name="DirecTV Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg" group-title="SPORTS",DirecTV Sports 2
 https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjYz/7_.m3u8?token=gWpApbvGMORcU_MRDizREQ&expires=1782042048
@@ -75,7 +75,7 @@ https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjU3/39_.m3u8?token=TblKg
 https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjU3/28_.m3u8?token=IOWMCjG225D4E5iXAzWCUQ&expires=1782015318
 
 #EXTINF:-1 tvg-id="movistarligadecampeones" tvg-name="Movistar Liga de Campeones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="SPORTS",Movistar Liga de Campeones
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=44423146&e=s&n=5318368465669177&aid=eGDB2EujEeKZwiIACp8kUw&at=1&c=-1&ccp=0&cp=0&d=1&eb=0&ed=6&emi=yocw0iwswszw&gfb=0&gifr=0&gios=0&i=1&lid=1komndc1d8gt&lsa=set&mt=1&pbd=1&pbr=1&pgi=mgsr3utc0qjy&ph=0&pii=0&pl=720&plc=1&pli=n4d75v283tyv&pp=hlsjs&ppm=LIVE&prc=1&ps=3&pss=1&pt=Reproductor%20Seguro%20Rojo%20%2B%20P2P&pu=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Ftvporinternet2.php%3Fstream%3D29_&pv=8.2.4&pyc=1&s=0&sdk=0&stc=1&stpe=0&t=TV%20PLUS%20GRATIS&tv=3.13.0&vb=1&vi=1&vl=90&wd=1280&abm=1&cae=0&cct=0&drm=0&ff=8970&l=0&lng=es&mk=hls&mu=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%3A9092%2FMzguNTIuMTMzLjYz%2F29_.m3u8%3Ftoken%3DEnl3C0svVMGJVLvOs_Z14Q%26expires%3D1782031042&pd=2&pnl=28&pr=2&q=0&qcr=auto&sp=0&strt=8970&tb=39.6&tt=0&vd=0&vh=240&vs=2&vw=426&sa=1781998653100
+https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjYz/29_.m3u8?token=VzxgYtIKMl7ghnyrJmnbqw&expires=1782085081
 
 #EXTINF:-1 tvg-id="winsports" tvg-name="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1280px-Win_Sports_nuevo_logo.svg.png" group-title="SPORTS",Win Sports
 https://temporal.com/live/winsports.m3u8
@@ -84,7 +84,7 @@ https://temporal.com/live/winsports.m3u8
 https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjYz/30_.m3u8?token=0OUXfh8rZ314at7VgseA4Q&expires=1782042123
 
 #EXTINF:-1 tvg-id="beinsportsxtra" tvg-name="beIN Sports XTRA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="SPORTS",beIN Sports XTRA
-https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjYz/31_.m3u8?token=Mzp_5lgRLFhHlux-OvOo2Q&expires=1782042136
+https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjYz/31_.m3u8?token=k0yREyjYP-8_nAe-mqpPiA&expires=1782085125
 
 
 # ==========================================
@@ -92,7 +92,7 @@ https://deportes.ksdjugfsddeports.com:9092/MzguNTIuMTMzLjYz/31_.m3u8?token=Mzp_5
 # ==========================================
 
 #EXTINF:-1 tvg-id="space" tvg-name="Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg" group-title="Entertainment",Space
-https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/56_.m3u8?token=WPOr4O_LhMIQDht0Mmt-TA&expires=1782041900
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/56_.m3u8?token=FNXd7TaPqZ5d0dF48ZZ3XA&expires=1782095939
 
 #EXTINF:-1 tvg-id="warnerchannel" tvg-name="Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Entertainment",Warner Channel
 https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/58_.m3u8?token=YmCkP3VRDFkmu2R-zXi_bA&expires=1782026196
@@ -101,10 +101,10 @@ https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/58_.m3u8?token=YmCk
 https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/52_.m3u8?token=EX_gMpAA1Dy5lZc6PSb10A&expires=1782052982
 
 #EXTINF:-1 tvg-id="starchannel" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" group-title="Entertainment",Star Channel
-https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/54_.m3u8?token=Fentnm8GLWIYnaD9BPa6eQ&expires=1782048880
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/54_.m3u8?token=4LzEichbls51E1mTN_tLzw&expires=1782095982
 
 #EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" group-title="Entertainment",Cinemax
-https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/55_.m3u8?token=GIkZeZWpO5eHOkWdPyHriw&expires=1782048894
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/55_.m3u8?token=krGrrpDvSlUt2w9_zhm2mA&expires=1782095994
 
 #EXTINF:-1 tvg-id="cinecanal" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Entertainment",Cinecanal
 https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/59_.m3u8?token=RbU2WB5eyw9_ZBiG08TJqg&expires=1782026253
@@ -119,7 +119,7 @@ https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/44_.m3u8?token=dmUK
 https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/45_.m3u8?token=iCbvP0aNXjRPxw3mrSNOTg&expires=1782053079
 
 #EXTINF:-1 tvg-id="pasiones" tvg-name="Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="Entertainment",Pasiones
-https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/10_.m3u8?token=_umBQYycutvP-HqRPZYNhg&expires=1782053096
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/10_.m3u8?token=hdVp0vvmHDMG81mxnTUSHQ&expires=1782096076
 
 #EXTINF:-1 tvg-id="tlnovelas" tvg-name="Tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/TLnovelas2019.png" group-title="Entertainment",Tlnovelas
 https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/12_.m3u8?token=BGrZSL94nvgBI65lvoYVjQ&expires=1782048987
@@ -134,7 +134,7 @@ https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/60_.m3u8?token=Kssd
 https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/68_.m3u8?token=7o0Yz7PPS6iKAOKTB8q28Q&expires=1782049047
 
 #EXTINF:-1 tvg-id="goldenedge" tvg-name="Golden Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="Entertainment",Golden Edge
-https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/69_.m3u8?token=2Lm65-0f4YebtsZoDaRh9A&expires=1782026395
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/69_.m3u8?token=J-9uBRhKueZO0pDkpOfdAA&expires=1782096148
 
 #EXTINF:-1 tvg-id="tntseries" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="Entertainment",TNT Series
 https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/53_.m3u8?token=rvTVamB5-U0sKKVEfAFlmw&expires=1782053184
@@ -146,25 +146,25 @@ https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/72_.m3u8?token=Gh-W
 https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/61_.m3u8?token=q5V8LMN23YT7sbSHNgQ_pA&expires=1782049100
 
 #EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Entertainment",AMC
-https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/63_.m3u8?token=vgCPveenhUQ9ZM4CrEV5qw&expires=1782053229
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/63_.m3u8?token=9hQMDU4QeHJf1IQfqoEJCw&expires=1782096210
 
 #EXTINF:-1 tvg-id="natgeo" tvg-name="Nat Geo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOert4yExwJAoChQEv6ARINkMglRk3anDTuujrUmZrG7446ALonjD6JMs&s=10" group-title="Entertainment",Nat Geo
 https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/47_.m3u8?token=qNzB5ucbYbXd0w3q3OXFtQ&expires=1782049129
 
 #EXTINF:-1 tvg-id="animalplanet" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png" group-title="Entertainment",Animal Planet
-https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/46_.m3u8?token=0jMtjYocNy38Gl3SgUPKtw&expires=1782049144
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/46_.m3u8?token=ATA8pC76tEY-mn79QRT7-g&expires=1782096241
 
 #EXTINF:-1 tvg-id="discoverychannel" tvg-name="Discovery Channel" tvg-logo="https://images.seeklogo.com/logo-png/4/1/discovery-channel-logo-png_seeklogo-41901.png" group-title="Entertainment",Discovery Channel
-https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/37_.m3u8?token=kgBkwu7xks1ynFACJf1VsA&expires=1782053275
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/37_.m3u8?token=ojKWCEdAKpt7QCuUMUBxTQ&expires=1782096254
 
 #EXTINF:-1 tvg-id="tntnovelas" tvg-name="TNT Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/960px-Logo_TNT_Novelas.png" group-title="Entertainment",TNT Novelas
 https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/5_.m3u8?token=eSqywvSyhNKsNipc1ySKrQ&expires=1782026535
 
 #EXTINF:-1 tvg-id="discoveryaye" tvg-name="Discovery A&E" tvg-logo="https://en.wikipedia.org/wiki/A%26E_%28TV_network%29#/media/File:A&E_Network_logo.svg" group-title="Entertainment",Discovery A&E
-https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/43_.m3u8?token=hvwF3h2ln5XEZlHXInpU9Q&expires=1782049189
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/43_.m3u8?token=bl7H-tebPDPUI8MqKe7U-w&expires=1782096289
 
 #EXTINF:-1 tvg-id="idinvestigation" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="Entertainment",Investigation Discovery
-https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/41_.m3u8?token=x-PE2Dm-XcF7dImqn6R4Cw&expires=1782026567
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/41_.m3u8?token=-DL2VqsWMXoPB0FnXsMgng&expires=1782096302
 
 
 # ==========================================
@@ -172,13 +172,13 @@ https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/41_.m3u8?token=x-PE
 # ==========================================
 
 #EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="Cartoon Network" tvg-logo="https://images.seeklogo.com/logo-png/2/1/cartoon-network-logo-png_seeklogo-26677.png" group-title="Kids",Cartoon Network
-https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/31_.m3u8?token=83pwzKasFBWM5DLFpua0iQ&expires=1782053339
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/31_.m3u8?token=LcJw-Eg7ERXH8M99JIfa7A&expires=1782096316
 
 #EXTINF:-1 tvg-id="tooncast" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tooncast_logo.svg" group-title="Kids",Tooncast
 https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/32_.m3u8?token=m36eyS0H3pZm-FZqzmQ2kw&expires=1782049244
 
 #EXTINF:-1 tvg-id="disneychannel" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="Kids",Disney Channel
-https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjU3/28_.m3u8?token=q9CSiBSa8iUeQyDu9DOMKA&expires=1782026611
+https://regionales.saohgdasregions.fun:9092/MzguNTIuMTMzLjYz/28_.m3u8?token=FtTJ3kChfETG9y1Wn8MMqg&expires=1782096359
 
 #EXTINF:-1 tvg-id="ParaguayTV.py@SD" tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="NACIONALES",Paraguay TV (1080p)
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
