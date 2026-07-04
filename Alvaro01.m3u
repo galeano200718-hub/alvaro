@@ -461,7 +461,7 @@ https://streamtv.mediasector.es/hls/activatv/index.m3u8
 https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",ADN 40 (720p)
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+http://45.189.62.33:8002/play/a0ob/index.m3u8
 
 #EXTINF:-1 tvg-id="AdoramTV.do@SD" tvg-logo="https://i.imgur.com/uU01KHz.png" group-title="Religious",Adoram TV (720p)
 https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
@@ -1802,7 +1802,7 @@ https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
 https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ImagenTV.mx@SD" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="General",Imagen TV+ (720p)
-https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 
 #EXTINF:-1 tvg-id="ImagenUniversalTV.do@SD" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="General",Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
@@ -2012,7 +2012,7 @@ https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 
 #EXTINF:-1 tvg-id="Latina.pe@SD" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="General",Latina (720p)
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
 
 #EXTINF:-1 tvg-id="LatinaClasicos.pe@SD" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Series",Latina Clasicos (1080p)
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
@@ -3104,7 +3104,7 @@ https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
 
 #EXTINF:-1 tvg-id="SuyaiTV.cl@SD" tvg-logo="https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png" group-title="Culture",Suyai TV (1080p)
-https://signal.suyaitv.cl/live/35/playlist.m3u8?password=9PcdCnFxUe&username=ZZDemoIPTVGH
+https://origin.skarnetchile.com:8081/suyai-tv-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="SuyapaTV.hn@SD" tvg-logo="https://i.imgur.com/I7GuToz.png" group-title="Religious",Suyapa TV (1080p)
 https://streamingcws30.com/suyapa2/videosuyapa2/playlist.m3u8
